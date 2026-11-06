@@ -1,0 +1,9 @@
+{
+  "name": "Sof's Training App",
+  "short_name": "Sof's Training",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#14233c"
+}
